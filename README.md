@@ -1,11 +1,16 @@
 # app-dev
 My first repository
 
-# app-dev
-My first repository
+---
 
 # Spider Man 3
-### *Peter Parker faces new threats when an alien symbiote attaches to his suit, magnifying his anger and pride. At the same time, he must battle the shape-shifting Sandman, his vengeful former friend Harry Osborn, and the rival photographer Eddie Brock who becomes Venom. After ridding himself of the corrupting symbiote at a church bell tower, Peter teams up with Harry to defeat Venom and Sandman, restoring balance to his life.*
+### *
+Plot Overview
+- Peter and MJ's Struggles: Peter plans to propose to Mary Jane, who has just debuted on Broadway, while enjoying public adoration in New York City. However, their relationship strains as Peter grows overconfident and distracted.
+- Harry Osborn's Vengeance: Harry, blaming Peter for his father's death, attacks him using Green Goblin tech before suffering partial amnesia. He later regains his memory and schemes against Peter.
+- The Rise of Sandman: Escaped convict Flint Marko falls into a particle accelerator during a police chase, fusing his body with sand and transforming into the shape-shifting Sandman. It is revealed that Marko—not just an ordinary thief—was the actual gunman who killed Uncle Ben.
+- The Black Symbiote Suit: An extraterrestrial alien symbiote attaches to Peter's moped and bonds with his suit, enhancing his physical abilities but corrupting his personality into an aggressive, arrogant, and vengeful individual.
+- Venom and the Final Battle: After Peter sheds the alien suit due to its destructive influence, it bonds with disgraced rival photographer Eddie Brock, creating Venom. Sandman and Venom join forces against Peter, leading to Harry sacrificing himself to help save his friend. Peter eventually defeats Venom and forgives Flint Marko.*
 
 ### Genre: Science Fiction
 ### Release Date: May 4, 2007
