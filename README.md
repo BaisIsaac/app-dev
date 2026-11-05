@@ -2,11 +2,7 @@
 
 # Spider Man 3
 ## Overview
-- Peter and MJ's Struggles: Peter plans to propose to Mary Jane, who has just debuted on Broadway, while enjoying public adoration in New York City. However, their relationship strains as Peter grows overconfident and distracted.
-- Harry Osborn's Vengeance: Harry, blaming Peter for his father's death, attacks him using Green Goblin tech before suffering partial amnesia. He later regains his memory and schemes against Peter.
-- The Rise of Sandman: Escaped convict Flint Marko falls into a particle accelerator during a police chase, fusing his body with sand and transforming into the shape-shifting Sandman. It is revealed that Marko—not just an ordinary thief—was the actual gunman who killed Uncle Ben.
-- The Black Symbiote Suit: An extraterrestrial alien symbiote attaches to Peter's moped and bonds with his suit, enhancing his physical abilities but corrupting his personality into an aggressive, arrogant, and vengeful individual.
-- Venom and the Final Battle: After Peter sheds the alien suit due to its destructive influence, it bonds with disgraced rival photographer Eddie Brock, creating Venom. Sandman and Venom join forces against Peter, leading to Harry sacrificing himself to help save his friend. Peter eventually defeats Venom and forgives Flint Marko.
+# In New York City, Peter Parker’s growing overconfidence and public adoration strain his relationship with Mary Jane right as he plans to propose. Meanwhile, Harry Osborn attacks Peter using Green Goblin tech to avenge his father, resulting in a battle that leaves Harry with temporary amnesia. Simultaneously, escaped convict Flint Marko falls into a particle accelerator and transforms into the shape-shifting Sandman, who is revealed to be Uncle Ben's true killer. Peter's struggles intensify when an alien symbiote bonds with him, amplifying his powers but corrupting his personality into an aggressive, arrogant persona. After Peter rejects the corrupting suit, it bonds with rival photographer Eddie Brock to create Venom, forcing Peter to team up with a redeemed Harry to defeat the combined forces of Venom and Sandman.
 
 ### Genre: Science Fiction
 ### Release Date: May 4, 2007
